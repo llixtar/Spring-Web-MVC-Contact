@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [20/May/2024:01:39:03 +0200] "GET /Spring-Web-MVC-Contact HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [20/May/2024:01:39:03 +0200] "GET /Spring-Web-MVC-Contact/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [20/May/2024:01:39:04 +0200] "GET /Spring-Web-MVC-Contact/home HTTP/1.1" 200 1760
+0:0:0:0:0:0:0:1 - - [20/May/2024:01:39:08 +0200] "GET /Spring-Web-MVC-Contact/home HTTP/1.1" 200 1760
+0:0:0:0:0:0:0:1 - - [20/May/2024:01:39:10 +0200] "GET /Spring-Web-MVC-Contact/contacts HTTP/1.1" 200 3453
